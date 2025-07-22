@@ -34,7 +34,7 @@ If you prefer installation via the Conda package manager, you may use:
 Source code (tarball)
 ---------------------
 
-To install from a compressed source code file, start by downloading the latest tarball from [link]
+To install from a compressed source code file, start by downloading the latest tarball from `GitHub <https://github.com/MPA2suite/Magnon/releases>`_.
 
 Then extract the files, and create a symbolic link:
 
