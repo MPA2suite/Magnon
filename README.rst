@@ -35,7 +35,7 @@ Magnon, the simple script below can be used to obtain the bandstructure of BCC i
    bstruct = magnon.get_band_structure(path)
    bstruct.plot(emin=0, emax=0.7, filename='Iron_BCC_bands.png')
 
-.. figure:: Iron_BCC_bandstructure.png
+.. figure:: docs/source/Iron_BCC_bandstructure.png
 
    The bandstructure of BCC Iron calculated using the above example script.
 
