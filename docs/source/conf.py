@@ -6,7 +6,7 @@ project = 'Magnon'
 copyright = '2025, Magnon Development Team'
 author = 'Magnon Development Team'
 
-release = '0.0'
+release = '1.0'
 version = '0.0.0'
 
 # -- General configuration
