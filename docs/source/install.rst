@@ -25,6 +25,10 @@ Magnon is most easily installed using the Python Package Index using:
 conda-forge
 -----------
 
+.. warning::
+
+   Magnon is currently under review for conda-forge. In the meantime, please try an alternative installation method.
+
 If you prefer installation via the Conda package manager, you may use:
 
 .. code-block:: bash
